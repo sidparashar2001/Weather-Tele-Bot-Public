@@ -1,0 +1,19 @@
+{
+  "name": "tele-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "env": "^0.0.2",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.11.1",
+    "telegraf": "^4.14.0"
+  }
+}
